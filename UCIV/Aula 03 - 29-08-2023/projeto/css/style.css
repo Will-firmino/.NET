@@ -1,0 +1,24 @@
+/* Header */
+.header{
+    background-color: #fec63e;
+}
+
+.logo {
+    padding: 20px 0 0 150px;
+}
+
+.header_menu{
+    display: inline-block;
+}
+
+.header_menu a {
+    color: #000000;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+
+.header_menu a:hover {
+    color: #FFF;
+}
+

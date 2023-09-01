@@ -1,0 +1,58 @@
+/* Globais */
+
+/* .button_ancora{
+    color: #fec63e;
+    border: 3px solid #fec63e;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+.button_ancora:hover {
+    color: #c2c2c2;
+    border-color: #c2c2c2;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} */
+
+.button {
+    color: #fec63e;
+    border: 3px solid #fec63e;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 10px 30px;
+    text-decoration: none;
+    background-color: #FFF;
+}
+
+.button:hover {
+    color: #c2c2c2;
+    border-color: #c2c2c2;
+}
+
+/* Header */
+.header{
+    background-color: #fec63e;
+    margin-bottom: 100px;
+    padding-bottom: 50px;
+}
+
+.logo {
+    padding: 20px 0 0 150px;
+}
+
+.header_menu{
+    
+    text-align: right;
+}
+
+.header_menu a {
+    color: #000000;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.header_menu a:hover {
+    color: #FFF;
+}
+
